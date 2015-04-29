@@ -1,7 +1,7 @@
 package json_bench
 
 // number of messages we want to test
-const Messages = 1e5
+const Messages = 1e6
 
 // test embedding
 type Status int32
